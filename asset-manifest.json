@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/React-Mini-Project/static/css/main.b4085160.css",
-    "main.js": "/React-Mini-Project/static/js/main.ba360b4d.js",
+    "main.css": "/React-Mini-Project/static/css/main.e1d7c6f8.css",
+    "main.js": "/React-Mini-Project/static/js/main.fb51cece.js",
     "static/js/787.440c4889.chunk.js": "/React-Mini-Project/static/js/787.440c4889.chunk.js",
-    "static/media/logo.svg": "/React-Mini-Project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/React-Mini-Project/index.html",
-    "main.b4085160.css.map": "/React-Mini-Project/static/css/main.b4085160.css.map",
-    "main.ba360b4d.js.map": "/React-Mini-Project/static/js/main.ba360b4d.js.map",
+    "main.e1d7c6f8.css.map": "/React-Mini-Project/static/css/main.e1d7c6f8.css.map",
+    "main.fb51cece.js.map": "/React-Mini-Project/static/js/main.fb51cece.js.map",
     "787.440c4889.chunk.js.map": "/React-Mini-Project/static/js/787.440c4889.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b4085160.css",
-    "static/js/main.ba360b4d.js"
+    "static/css/main.e1d7c6f8.css",
+    "static/js/main.fb51cece.js"
   ]
 }
