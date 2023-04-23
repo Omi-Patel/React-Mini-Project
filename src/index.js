@@ -4,7 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Cards from './Cards';
-import Sdata, {S2data} from './Sdata';
+import Sdata, { S2data } from './Sdata';
 
 
 function ncard(val) {
@@ -29,7 +29,7 @@ root.render(
       </div>
 
       <div className='allcards'>
-      {S2data.map(ncard)}
+        {S2data.map(ncard)}
       </div>
     </>
     {/* <App /> */}

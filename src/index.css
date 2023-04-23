@@ -29,6 +29,7 @@ code {
   text-align: center;
   background-color: aquamarine;
   text-transform: uppercase;
+  width: 100%;
 }
 
 .allcards{
